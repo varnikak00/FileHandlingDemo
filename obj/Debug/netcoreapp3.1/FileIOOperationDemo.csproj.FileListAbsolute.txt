@@ -1,0 +1,14 @@
+D:\AdderssBook\FileIOOperationDemo\bin\Debug\netcoreapp3.1\FileIOOperationDemo.exe
+D:\AdderssBook\FileIOOperationDemo\bin\Debug\netcoreapp3.1\FileIOOperationDemo.deps.json
+D:\AdderssBook\FileIOOperationDemo\bin\Debug\netcoreapp3.1\FileIOOperationDemo.runtimeconfig.json
+D:\AdderssBook\FileIOOperationDemo\bin\Debug\netcoreapp3.1\FileIOOperationDemo.runtimeconfig.dev.json
+D:\AdderssBook\FileIOOperationDemo\bin\Debug\netcoreapp3.1\FileIOOperationDemo.dll
+D:\AdderssBook\FileIOOperationDemo\bin\Debug\netcoreapp3.1\FileIOOperationDemo.pdb
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.csproj.AssemblyReference.cache
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.AssemblyInfoInputs.cache
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.AssemblyInfo.cs
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.csproj.CoreCompileInputs.cache
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.dll
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.pdb
+D:\AdderssBook\FileIOOperationDemo\obj\Debug\netcoreapp3.1\FileIOOperationDemo.genruntimeconfig.cache
